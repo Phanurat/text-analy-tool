@@ -1,0 +1,3 @@
+C:/Users/Jakkranukoolki/Documents/text-analy-tool/build/CMakeFiles/text_processor.dir
+C:/Users/Jakkranukoolki/Documents/text-analy-tool/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Jakkranukoolki/Documents/text-analy-tool/build/CMakeFiles/ZERO_CHECK.dir
